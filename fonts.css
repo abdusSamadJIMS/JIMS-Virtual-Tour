@@ -5,6 +5,10 @@
    font-style: normal;
 }
 
+
+
+
+
 @font-face {
    font-family: "Montserrat";
    src: url("fonts/Montserrat-Bold.woff") format("woff"), url("fonts/Montserrat-Bold.eot") format("embedded-opentype"), url("fonts/Montserrat-Bold.ttf") format("truetype"), url("fonts/Montserrat-Bold.svg") format("svg");
@@ -88,6 +92,45 @@
    font-weight: normal;
    font-style: normal;
 }
+
+
+.modal-backdrop {
+   display: none;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: rgba(0, 0, 0, 0.6);
+   justify-content: center;
+   align-items: center;
+   z-index: 9999;
+}
+
+.modal {
+   background: white;
+   padding: 1.5rem;
+   border-radius: 8px;
+   max-width: 500px;
+   width: 90%;
+   position: relative;
+   font-size: 14px;
+}
+
+.modal-close {
+   position: absolute;
+   top: 5px;
+   right: 10px;
+   font-size: 20px;
+   background: none;
+   border: none;
+   cursor: pointer;
+}
+
+
+
+
+
 
 @font-face {
    font-family: "Oswald";
@@ -198,46 +241,8 @@
    font-family: "Oswald";
    src: url("fonts/Oswald-BoldItalic.woff") format("woff"), url("fonts/Oswald-BoldItalic.eot") format("embedded-opentype"), url("fonts/Oswald-BoldItalic.ttf") format("truetype"), url("fonts/Oswald-BoldItalic.svg") format("svg");
    font-weight: bold;
-
-
    font-style: italic;
 }
-
-.modal-backdrop {
-   display: none;
-   position: fixed;
-   top: 0;
-   left: 0;
-   width: 100vw;
-   height: 100vh;
-   background: rgba(0, 0, 0, 0.6);
-   justify-content: center;
-   align-items: center;
-   z-index: 9999;
-}
-
-.modal {
-   background: white;
-   padding: 1.5rem;
-   border-radius: 8px;
-   max-width: 500px;
-   width: 90%;
-   position: relative;
-   font-size: 14px;
-}
-
-.modal-close {
-   position: absolute;
-   top: 5px;
-   right: 10px;
-   font-size: 20px;
-   background: none;
-   border: none;
-   cursor: pointer;
-}
-
-
-
 
 @font-face {
    font-family: "Oswald";
