@@ -1,0 +1,289 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = JIMS Virtual Tour
+
+## Skin
+
+### Button
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = F3 Room
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = S1 Room
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = S2 Room
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = S3 Room
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = F2 Room
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = S4 Room
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = T1 Room
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = F1 Room
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = IT Lab
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = Labs
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Class Room
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = Class Rooms
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = BJMC Lab
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Mac Lab
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = BBA Lab
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Print Lab
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Library
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Conference Room
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = RJ Room
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Auditorium
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Main Reception
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = Creators
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = Gallery
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = LOREM IPSUM
+Button_BD217DC4_A437_71A0_4162_BBA41AE86E1F.label = T4 Room
+Button_BD4EF71A_A437_52A0_41C2_2E4AF89FB35D.label = T2 Room
+Button_BD517111_A437_6EA0_41C6_58D27443551D.label = T3 Room
+Button_C402063D_DFA1_ED17_41E8_1839BEE79A7B.label = Auditorium
+Button_C408A493_DFA0_EDEC_41E2_9966A95CEED0.label = Mac Lab
+Button_C416C257_DFA1_E513_41C2_64408B6285BA.label = RJ Room
+Button_C41AC0B4_DFA1_E514_41CB_6E6986C76B65.label = Conference Room
+Button_C45B9E1A_DFA1_1D1C_41E3_B2C9407CEAE0.label = BJMC Lab
+Button_C46E4BCD_DFA1_1B77_41E1_2DF300E72B8A.label = BBA Lab
+Button_C4711932_DFA0_E72D_4197_FAFC04326B89.label = Print Lab
+Button_C4B3155B_DFA1_2F13_41EA_181ADC23F1C0.label = IT Lab
+Button_C4D64160_DFA1_272D_41C2_3C8A7C0A431C.label = Library
+Button_C55D5411_DFA1_ECEC_41D0_0312345AB4EF.label = Class Room
+Button_FD4DCFDE_DFA3_1B14_41E7_3F869E528FE2.label = Main Reception
+
+### Dropdown
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = RECEPTION
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = CLASSROOMS
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = RESTAURANTS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = INFRASTRUCTURE
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999993vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:1.96vh;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999993vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;"> </SPAN>• Nisl nec mi sollicitudin facilisis </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Nam sed faucibus est.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Ut eget lorem sed leo.</SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Sollicitudin tempor sit amet non urna. </SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2000000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"> • Aliquam feugiat mauris sit amet.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999993vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.96vh;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.8299999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.83vh;font-family:'Oswald';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Creators</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0699999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>Abdus Samad</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>BCA 2022-25</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>email: </B></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:samadmalik04@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:1.31vh;font-family:'Montserrat';"><B>samadmalik04@gmail.com</B></SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.330000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.330000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>DOLOR SIT AME</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.720000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:4.72vmin;font-family:'Montserrat';"><B>CONSECTETUR ADIPISCING ELIT. MORBI BIBENDUM PHARETRA LOREM, ACCUMSAN SAN NULLA.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.830000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>DONEC FEUGIAT:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;"> </SPAN><SPAN STYLE="font-size:3.61vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.830000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.83vmin;font-family:'Montserrat';"><B>LOREM IPSUM:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.830000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.83vmin;font-family:'Montserrat';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555559vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.56vmin;font-family:'Montserrat';"><B>Abdus Samad</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.88888888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Montserrat';">BCA 2022-25</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:2.78vmin;font-family:'Montserrat';">email: </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:samadmalik04@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:2.78vmin;font-family:'Montserrat';">samadmalik04@gmail.com</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B271E8CB_AE03_5802_41C3_E0E35B2B6622.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>Creators</B></SPAN></SPAN></DIV></div>
+HTMLText_B60229D1_A471_71A0_41CD_9BF9DEF44D0E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0699999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>Shahzar Iqbal</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>BCA 2022-25</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>email: </B></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:shahzarkhan909@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:1.31vh;font-family:'Montserrat';"><B>shahzarkhan909@gmail.com</B></SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B63999F5_A411_7160_41CA_5CF505A2860F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555559vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.56vmin;font-family:'Montserrat';"><B>Shahzar Iqbal</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.88888888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Montserrat';">BCA 2022-25</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:2.78vmin;font-family:'Montserrat';">email: </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:shahzarkhan909@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:2.78vmin;font-family:'Montserrat';">shahzarkhan909@gmail.com</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B6CC412B_A470_EEE0_41D5_504521C31B70.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0699999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>Aniket Choudhary</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>BCA 2022-25</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>email: </B></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:choudharyaniket2004@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:1.31vh;font-family:'Montserrat';"><B>choudharyaniket2004@gmail.com</B></SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B71EC3FC_A411_7160_41C7_AD5BDA13CEB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.555555555555559vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:5.56vmin;font-family:'Montserrat';"><B>Aniket Choudhary</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.88888888888889vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Montserrat';">BCA 2022-25</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7777777777777795vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:2.78vmin;font-family:'Montserrat';">email: </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="mailto:choudharyaniket2004@gmail.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:2.78vmin;font-family:'Montserrat';">choudharyaniket2004@gmail.com</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Label
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = {{title}}
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = {{title}}
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = {{subtitle}}
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = {{subtitle}}
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = JIMS Vasant Kunj
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = JIMS Vasant Kunj
+Label_B1D67FFF_AE1F_D801_41D8_AED12A21A1C1.text = Creators
+
+### Tooltip
+IconButton_7B201C51_3AA0_A251_41CD_5CC0A59F2DE8.toolTip = Creators
+
+## Media
+
+### Title
+panorama_40E5015C_5159_C07E_41A0_16CCAEB08BDA.label = Reception
+panorama_40E505EC_5156_C05F_41D2_F32EFCCA7A98.label = Confrence Room
+panorama_40E506CD_5156_4059_41D0_391BA38A106C.label = Ground Floor
+panorama_40E51797_5156_40C9_41BA_3FD20B1A297C.label = Ground Floor
+panorama_40E51F0D_5156_41DE_41C8_362F9277E664.label = Ground Floor
+panorama_40E5281B_5156_4FF9_41D1_026B5F1D7584.label = Lab 1 
+panorama_40E53FEF_5156_4059_41B9_4741FFDBBC3A.label = Ground Floor 
+panorama_40E5CDB3_5156_C0C9_41D1_8F2758275EDA.label = Outside of Confrence Room
+panorama_40E5DE48_5156_C046_41D1_97E6249D2A79.label = Faculty Room
+panorama_42B053C4_51DE_414A_41CB_5BC865A655AE.label = STAIRS
+panorama_42B084A1_51DE_C7CA_41C4_34EA3966D600.label = FACULTY ROOM
+panorama_42B0A0D0_51DE_5F49_41CF_34E29DF6946B.label = OUTSIDE FACULTY
+panorama_42B0E846_51DE_CF56_41D2_CCF304927763.label = FACULTY ROOM
+panorama_42B0E8C1_51DE_CF4A_41C4_8886BCD2F905.label = Stairs
+panorama_42B0F0A9_51DE_BFDB_41D2_389C66EFBEEF.label = FACULTY ROOM
+panorama_42B7513B_51D9_C13E_41C5_53C2B62AE3C9.label = OUTSIDE GCR
+panorama_42B753C6_51D9_C149_41C7_2F139AFE8BA1.label = OUTSIDE BCR
+panorama_42B7D167_51DE_4157_41CE_EC06E669EDFB.label = STAIRS
+panorama_42F30559_517E_4046_41CB_276A518D22EC.label = 1st Floor Corridor
+panorama_42F36C29_517E_47C6_41BE_754455F2BD0D.label = 1st Floor Corridor
+panorama_42FCE7CB_517E_405A_41C1_40D5F48345A3.label = Library
+panorama_42FCFD1F_517E_41FA_41AD_F62AA8172D51.label = BCA Faculty Room
+panorama_42FD0934_517E_41C8_41CB_AF86C2ADE395.label = 1st Floor Corridor
+panorama_42FD0C04_517F_C7CF_41CA_B844472D6C6B.label = F1 Class Room
+panorama_42FD2A8C_517F_C0DE_41D3_C548A14B11F9.label = F3 Class Room
+panorama_42FD7EC4_517F_C04F_417F_90AC4B2B460C.label = F2 Class Room
+panorama_42FF00C4_517E_404E_41A7_968F7AC25762.label = Library 
+panorama_42FF39D3_517E_404A_4190_AD31FBCDC7EE.label = Library
+panorama_43188C5E_51F9_C776_41AB_6AB11B044F9A.label = BIKE PARKING
+panorama_43485539_5156_C1C6_41C1_E644EAE21A9D.label = BCA HOD Reception
+panorama_43E8D46D_51F9_C75B_41CD_2062EB9335B6.label = CANTEEN STAIRS
+panorama_43E90469_51FE_475B_41CE_21D2CDA1D237.label = CANTEEN
+panorama_43E9062A_51FE_C2DE_41B1_55ED378B5604.label = OUTSIDE MAIN GATE
+panorama_43E90969_51FE_C15A_41BE_5F58EE20FD1B.label = Outside
+panorama_43E9258B_51FE_41DE_41C5_F0B6C373E9A2.label = Outside
+panorama_43E92683_51FE_C3CF_41CE_805B8613ACBE.label = Outside
+panorama_43E93028_51FE_5EDA_41B1_757BA25D19BF.label = WALKWAY
+panorama_43E953E6_51FE_4149_41D4_6EDB927716B4.label = Behind Canteen
+panorama_43E97354_51FE_4149_41C0_47AD51F91738.label = MAIN GATE
+panorama_43E98F8D_51FE_41DA_41AE_1C7283E8FDCF.label = WALK WAY
+panorama_43E9B4B3_51FE_C7CE_41D2_0DFE73C61685.label = OUTSIDE 
+panorama_43E9F1BD_51F9_C13A_41D0_E1177DFD6F38.label = OUTSIDE CANTEEN
+panorama_43EE511F_51FE_5EF6_41B3_8C12D4196FF1.label = Outside
+panorama_4579D2E3_517E_4049_41D1_5D43DB3237A2.label = 1st Floor Corridor
+panorama_45EFD9EC_51DE_C159_41D3_3ED727DB320A.label = BCR
+panorama_47271611_51B6_43C6_41B8_652944CDD1F8.label = Basement
+panorama_47271FB8_51B7_C0C6_41D2_117FFC6A863A.label = Outside of PCR
+panorama_472720B9_51B7_C039_41C8_A1A0639F5D7D.label = Print Lab
+panorama_472745CF_51B6_4059_41BE_6AC8021AC6B5.label = Basement
+panorama_47274DEF_51B6_4059_41B3_BB9F5EF58FEF.label = Basement
+panorama_47275727_51B7_C1CA_41C4_EE71F6D3C731.label = Control Room PCR
+panorama_47276E92_51B6_40CA_41D0_C07BF022C65D.label = Mac Lab
+panorama_4727781E_51B7_CFFA_4148_D13BE9F8FCE6.label = Studio PCR
+panorama_4728BD94_51B6_40CF_41BB_EDEBEB7171B6.label = Auditorium
+panorama_472AC54B_51B6_405A_41D1_6E90F5DEEE45.label = Auditorium 
+panorama_4823FF46_51DA_404B_4185_D78BB4191246.label = 2nd Floor Corridor
+panorama_48856E1F_51B6_43F9_41A9_98630E2C40ED.label = Auditorium
+panorama_496817AC_51DA_40DF_41AD_AD0B50C9BC67.label = BBA LAB
+panorama_49690176_51DA_C04B_4162_3AF15097AE22.label = S1 Room
+panorama_4969092B_51DA_C1D9_41CD_7D1C5D3D40ED.label = 2nd Floor Corridor lift
+panorama_496909FA_51DA_C03A_41CA_ADF4C4F74B25.label = S2 Room
+panorama_49690BCB_51DA_405A_417D_630E8D2AF9CA.label = S5 Class Room
+panorama_49691037_51DA_3FCA_41CB_8AD583A8ADA4.label = BBA Faculty Room
+panorama_49692270_51DA_C046_41A1_27F27782E360.label = 2nd Floor Corridor
+panorama_496960DC_51DA_C07F_41CF_3CDBCC08D030.label = 2nd Floor Corridor
+panorama_4969C312_51DA_41CA_41AB_65800B06B604.label = S4 Class Room
+panorama_4969C891_51DA_C0C9_41CB_3BA007C53168.label = 2nd Floor Corridor
+panorama_4969FAA7_51DA_C0CA_41C3_6C661299349C.label = S3 Class Room
+panorama_5C08964E_51DE_4356_41A3_631FFB56054F.label = 3rd Floor Corridor
+panorama_5CD1807E_51DA_5F36_41B6_2A215A33F7E4.label = RADIO CONTROLLER
+panorama_5CD1BFFB_51D9_C13F_41D3_3807EF718920.label = 3rd Floor Corridor
+panorama_5CD1F064_51D9_DF49_41BF_E1CFAEADED11.label = 3rd Floor Corridor lift
+panorama_5CD20F67_51D9_C157_41BA_4EBD622368DD.label = 3rd Floor Corridor
+panorama_5CD236F7_51DA_C336_41C6_0009879DF211.label = T4 Class Room
+panorama_5CD25217_51DA_42F7_41CC_152C56673151.label = RADIO CORRIDOR
+panorama_5CD25396_51DA_41F6_41B7_1BE3A83C0A76.label = RJ ROOM
+panorama_5CD2A826_51DA_CED6_4182_012A00380A8F.label = T3 Class Room
+panorama_5CD2C2F4_51DA_C34A_41D3_BAC8BFC70134.label = T1 Class Room
+panorama_5CD2D62F_51DA_C2D7_41A2_067290631F6C.label = T2 Class Room
+panorama_5CD4B3AB_51DE_41DE_41A4_E45EA727ADF4.label = BJMC FACULTY ROOM
+panorama_5CD60FF2_51DE_4149_41A9_44474A3C233C.label = BJMC LAB
+panorama_5CD62134_51DE_5ECA_41C4_E1A7825B59A6.label = 3rd Floor Corridor
+panorama_8B1972E8_AE07_480E_41DA_D7762A55D967.label = LAB2
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_40C50195_51EA_41CB_41A6_C0A8D74D5441.toolTip = T4 Room
+HotspotPanoramaOverlayArea_40CA602A_51E9_DED9_41D3_2F8CA7295CB9.toolTip = Third Floor
+HotspotPanoramaOverlayArea_41158A2C_51EE_C2DA_41D3_25A46A86761A.toolTip = Radio Corridor
+HotspotPanoramaOverlayArea_41B240D0_51E9_DF4A_41D0_A483F35F4035.toolTip = T2 Room
+HotspotPanoramaOverlayArea_41F0FBFB_522B_C13F_41CD_83EF323CB505.toolTip = Canteen Stairs
+HotspotPanoramaOverlayArea_41F39CAE_51D7_C7D9_41CC_638C03FE8F29.toolTip = BJMC Faculty Room
+HotspotPanoramaOverlayArea_41F3D290_51EA_43C9_41CD_416508765D2D.toolTip = T3 Room
+HotspotPanoramaOverlayArea_420A3A4C_51DA_C35A_41D3_369F428E5194.toolTip = Girls Common Room
+HotspotPanoramaOverlayArea_420D3824_51D6_CEC9_41D1_62838DE099F4.toolTip = Outside BCR
+HotspotPanoramaOverlayArea_42203B90_51DA_41C9_41B7_5544CDD801E4.toolTip = Exit
+HotspotPanoramaOverlayArea_42227301_51D6_42CA_41C1_0971796AC4EB.toolTip = Faculty Room
+HotspotPanoramaOverlayArea_4223B246_51D7_C349_41CD_692EEFA948D3.toolTip = Outside GCR
+HotspotPanoramaOverlayArea_424AF1EE_5157_C05A_41D3_08B776BB793B.toolTip = Reception
+HotspotPanoramaOverlayArea_425CF826_515E_4FCA_41D2_CE35C228A8E2.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_43209303_51EA_42CF_41C0_14F8197D9F24.toolTip = Canteen
+HotspotPanoramaOverlayArea_4326C99D_51EA_C1FB_41D2_E5DE2F655733.toolTip = Canteen
+HotspotPanoramaOverlayArea_432C3002_51D6_BECE_41C4_3478EAB68C66.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_43377445_51EB_C74A_41B6_582464567F18.toolTip = Canteen
+HotspotPanoramaOverlayArea_435639F4_51D6_4149_41C2_BF95313E419A.toolTip = Reception
+HotspotPanoramaOverlayArea_438316D1_5156_C049_41B9_1D1E8F46CF5F.toolTip = Lab 2
+HotspotPanoramaOverlayArea_4385813A_5149_C03B_41B1_2C3FBB45BDE5.toolTip = Lab 1
+HotspotPanoramaOverlayArea_4395E821_5159_CFC6_41C8_154E47E819AA.toolTip = Conference Room
+HotspotPanoramaOverlayArea_43DFD858_515E_C047_41BE_683580413EFD.toolTip = Outside Conference Room
+HotspotPanoramaOverlayArea_43E25FEB_51F6_415F_41B1_4273BF02B196.toolTip = Exit
+HotspotPanoramaOverlayArea_43E2604B_5156_4059_41C1_A7BD6E1EB89E.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_43E2AFEB_51F6_415F_41AA_1F27E8306B2B.toolTip = Exit
+HotspotPanoramaOverlayArea_43E2BFEA_51F6_4159_41B5_A226DC3E5235.toolTip = Radio Control Room
+HotspotPanoramaOverlayArea_43E38FEB_51F6_415F_41BE_0E390C4BA1C1.toolTip = Exit
+HotspotPanoramaOverlayArea_43E39FEB_51F6_415F_41CF_53AD205CE364.toolTip = Exit
+HotspotPanoramaOverlayArea_43E3CFEB_51F6_415F_41D3_4C5CC70911D3.toolTip = Exit
+HotspotPanoramaOverlayArea_43E3DFEB_51F6_415F_41C0_408C1B44AB17.toolTip = RJ Room
+HotspotPanoramaOverlayArea_43E3EFEB_51F6_415F_41D0_88A606731316.toolTip = Exit
+HotspotPanoramaOverlayArea_44662B5E_514A_407A_41D0_59DDA0D66203.toolTip = BCA HOD RECEPTION
+HotspotPanoramaOverlayArea_44664B5F_514A_407A_41D1_CAFBA0CC44B7.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_44666B5F_514A_407A_41AD_123CA829C135.toolTip = Faculty Room
+HotspotPanoramaOverlayArea_44679B5F_514A_407A_41D0_BCB36F580DA6.toolTip = Outside Conference Room
+HotspotPanoramaOverlayArea_4507FB9F_5149_C0F9_41C5_D96143CB566D.toolTip = First Floor
+HotspotPanoramaOverlayArea_450C296C_5156_405E_41C6_FC3B10D5B6AB.toolTip = First Floor
+HotspotPanoramaOverlayArea_45131ECB_514A_C059_41C3_A27CF802190F.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_451C536F_5149_C059_41B7_C63FDCB41DDA.toolTip = First Floor
+HotspotPanoramaOverlayArea_452BD09C_515A_40FF_41CD_0F8F75702189.toolTip = Ghopcha
+HotspotPanoramaOverlayArea_452C8F70_51DE_414A_41C3_10EBB95B8839.toolTip = Walkaway Entry
+HotspotPanoramaOverlayArea_452CEF70_51DE_414A_41C7_DAA84A7D3895.toolTip = Walkaway
+HotspotPanoramaOverlayArea_452D9F72_51DE_414E_41B1_BE605FBEA5E4.toolTip = Exit
+HotspotPanoramaOverlayArea_453101D9_514A_C079_41BE_89FD7640FAB4.toolTip = F3 Room
+HotspotPanoramaOverlayArea_4537C47D_514A_403E_41C5_5198FCEB90D5.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_453B92E9_514E_4046_41BD_B27CB0931D3C.toolTip = F2 Room
+HotspotPanoramaOverlayArea_453C5F59_5176_4046_41D3_3C155AA95219.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_45D7EA70_515A_C046_41C2_C3F3EAF35E93.toolTip = First Floor
+HotspotPanoramaOverlayArea_466F4180_522B_C1C9_41CD_EAD3DD8049F2.toolTip = Outside GCR
+HotspotPanoramaOverlayArea_466F5180_522B_C1C9_41D1_668B3DABE825.toolTip = Boys Common Room
+HotspotPanoramaOverlayArea_466F6180_522B_C1C9_41B4_57EBFC78D693.toolTip = Exit
+HotspotPanoramaOverlayArea_466FB180_522B_C1C9_41C8_57AAA7A22DDA.toolTip = Outside Faculty
+HotspotPanoramaOverlayArea_4686766D_51B6_4059_41CE_F055BD7398E6.toolTip = PCR Control Room
+HotspotPanoramaOverlayArea_4697996F_51BA_405A_41C4_E8D67195DEE0.toolTip = Auditorium
+HotspotPanoramaOverlayArea_4699F3D3_51C9_C04A_41C6_934C1B17250B.toolTip = Basement
+HotspotPanoramaOverlayArea_469C0B98_51B7_C0C6_41BD_BEA62D6B7623.toolTip = Basement
+HotspotPanoramaOverlayArea_469F362A_51CB_C3DA_41C3_B88CE6D79896.toolTip = Mac Lab
+HotspotPanoramaOverlayArea_46D7F731_51B9_C1C6_41C7_C4EC507F046E.toolTip = Auditorium
+HotspotPanoramaOverlayArea_46D85CFB_51BA_C03A_41CC_0FF990E22ABB.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_46E5A1CB_51BF_C05A_41C2_8F319F96D2E8.toolTip = Basement
+HotspotPanoramaOverlayArea_46EBE17D_522B_C13A_41B1_172C22AA1A71.toolTip = Outside Faculty
+HotspotPanoramaOverlayArea_46F0D329_51B6_C1C6_41D2_8497C450E1D5.toolTip = PCR Studio
+HotspotPanoramaOverlayArea_47DA52DC_514A_407E_41D2_E6A94675BD80.toolTip = First Floor
+HotspotPanoramaOverlayArea_47DA92DD_514A_407E_41C3_1C62A5D9CBB2.toolTip = F1 Room
+HotspotPanoramaOverlayArea_47DAB2DD_514A_407E_4165_1E53BC66021A.toolTip = First Floor
+HotspotPanoramaOverlayArea_47DAE2DD_514A_407E_4193_4E8BE7978CD2.toolTip = Library
+HotspotPanoramaOverlayArea_47DB02DD_514A_407E_41A2_3CA95584BF8E.toolTip = First Floor
+HotspotPanoramaOverlayArea_47DB12DD_514A_407E_41C3_7C89D04228A9.toolTip = First Floor
+HotspotPanoramaOverlayArea_47DB22DD_514A_407E_41C0_440FBE5081BF.toolTip = BCA Faculty Room
+HotspotPanoramaOverlayArea_480A44EA_51DE_405B_4191_C3A90C3A25E9.toolTip = S5 Room
+HotspotPanoramaOverlayArea_482764DF_51CA_407A_41C3_078689371C2B.toolTip = Second Floor
+HotspotPanoramaOverlayArea_48350F3A_51D6_403A_41B4_8278CFE5BF20.toolTip = First Floor
+HotspotPanoramaOverlayArea_4837A93A_51CE_403A_41B3_330406F2804F.toolTip = S3 Room
+HotspotPanoramaOverlayArea_487B3569_51F6_C046_41CC_0FBE311D7806.toolTip = First Floor
+HotspotPanoramaOverlayArea_48E90DBC_51DA_403E_41A8_CF3D2DC2A575.toolTip = BBA La
+HotspotPanoramaOverlayArea_48F00523_51D9_C1CA_41C5_147B38657D21.toolTip = S2 Room
+HotspotPanoramaOverlayArea_49C90B31_51CA_C1C6_41D2_B685441CB5DB.toolTip = PCR Outside
+HotspotPanoramaOverlayArea_49C91B31_51CA_C1C6_41A1_71268C8A2F61.toolTip = Basement
+HotspotPanoramaOverlayArea_49C92B31_51CA_C1C6_41D3_4F81BDD65533.toolTip = PCR Outside
+HotspotPanoramaOverlayArea_49C96B31_51CA_C1C6_41D2_B483CC097069.toolTip = PCR Outside
+HotspotPanoramaOverlayArea_49C97B31_51CA_C1C6_41A2_D64A59B6A12E.toolTip = Ground Floor
+HotspotPanoramaOverlayArea_49CA8B31_51CA_C1C6_41C5_9CE85CC8D9BB.toolTip = Basement
+HotspotPanoramaOverlayArea_49CA9B31_51CA_C1C6_41C3_AABD3D0B33FE.toolTip = Basement
+HotspotPanoramaOverlayArea_49CAAB31_51CA_C1C6_41D0_9DD59B4826E6.toolTip = Print Lab
+HotspotPanoramaOverlayArea_4A09ECE0_51C9_C046_41D2_A7EB275BFF64.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4A09FCE0_51C9_C046_41C9_53778DC63F8C.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4A7963EF_5256_C156_4105_C1BB1403B9D0.toolTip = Third Floor
+HotspotPanoramaOverlayArea_4ACE1ADC_51FA_C07E_41C2_ED46569B4260.toolTip = BBA Faculty Room
+HotspotPanoramaOverlayArea_4ACE2ADC_51FA_C07E_41D1_2688A25CC2FC.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4ACE5ADC_51FA_C07E_41D1_9470C46BF0ED.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4ACE9ADD_51FA_C07E_41D4_409DC85E4DED.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4ACF2ADD_51FA_C07E_41D2_151C5B30E6C3.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4ACF7ADD_51FA_C07E_41C9_9FAE41F21748.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4B128443_51CA_4049_4198_977EF873729F.toolTip = S1 Room
+HotspotPanoramaOverlayArea_4B244783_5257_C1CE_41BC_C556FD685B8E.toolTip = Second Floor
+HotspotPanoramaOverlayArea_4B76489E_51C9_C0FB_41B0_7E2B2A44B288.toolTip = S4 Room
+HotspotPanoramaOverlayArea_5E3071CF_51DA_4156_41BD_3C5244E1BFD8.toolTip = T1 Room
+HotspotPanoramaOverlayArea_5E33DC13_51D6_46CF_41C4_D9F264FB0A63.toolTip = BJMC Lab
+HotspotPanoramaOverlayArea_8BF2B7C1_AE01_C801_41BC_D54C3464D000.toolTip = Exit
+HotspotPanoramaOverlayArea_B20C06BC_985E_BF29_41D4_E399F9307582.toolTip = Basement
+HotspotPanoramaOverlayArea_B6F4A59C_AE02_C806_41CA_934A15FCB3E5.toolTip = First Floor
+
+## Action
+
+### URL
+LinkBehaviour_B9060960_A91B_2CA3_41CD_812BB60726A0.source = https://www.jimsd.org/
