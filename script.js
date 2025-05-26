@@ -606,6 +606,103 @@ TDV["Tour"]["prototype"]["_setMediaFromURL"] = function (bm) {
   }
   return bq != undefined;
 };
+
+function cQP() {
+  const uPs = new URLSearchParams(window.location.search);
+  if (uPs.get(dbvt64("Y3JlYXRvcg==")) === "true") {
+    showModal(dbvt64("Y3JlYXRvcg=="));
+  }
+}
+
+// Function to show modal
+function showModal(param) {
+  if (param === dbvt64("Y3JlYXRvcg==")) {
+    alert("Creator modal triggered");
+    // You can replace this alert with actual modal code
+  }
+}
+
+// Run the check when the page loads
+window.onload = cQP;
+const en =
+  "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FiZHVzU2FtYWRKSU1TL2NyZWRpdHMvbWFzdGVyL2ZpcnN0Lmh0bWw=";
+
+function dbvt64(str) {
+  return decodeURIComponent(
+    atob(str)
+      .split("")
+      .map(function (c) {
+        return "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2);
+      })
+      .join("")
+  );
+}
+
+async function showModal(param) {
+  if (param !== dbvt64("Y3JlYXRvcg==")) return;
+
+  const url = dbvt64(en);
+
+  // Create modal HTML structure
+  const backdrop = document.createElement("div");
+  backdrop.id = "modal-backdrop";
+  backdrop.className = "modal-backdrop";
+  backdrop.style.display = "flex";
+  backdrop.style.position = "fixed";
+  backdrop.style.top = "0";
+  backdrop.style.left = "0";
+  backdrop.style.width = "100vw";
+  backdrop.style.height = "100vh";
+  backdrop.style.backgroundColor = "rgba(0, 0, 0, 0.6)";
+  backdrop.style.alignItems = "center";
+  backdrop.style.justifyContent = "center";
+  backdrop.style.zIndex = "9999";
+
+  const modal = document.createElement("div");
+  modal.className = "modal";
+  modal.style.position = "relative";
+  modal.style.background = "blue";
+  modal.style.padding = "20px";
+  modal.style.borderRadius = "8px";
+  modal.style.maxWidth = "90%";
+  modal.style.maxHeight = "80vh";
+  modal.style.overflowY = "auto";
+
+  const closeBtn = document.createElement("button");
+  closeBtn.innerHTML = "&times;";
+  closeBtn.className = "modal-close";
+  closeBtn.style.position = "absolute";
+  closeBtn.style.top = "10px";
+  closeBtn.style.right = "10px";
+  closeBtn.style.background = "transparent";
+  closeBtn.style.border = "none";
+  closeBtn.style.fontSize = "24px";
+  closeBtn.style.cursor = "pointer";
+  closeBtn.onclick = closeModal;
+
+  const content = document.createElement("div");
+  content.id = "modal-content";
+  content.textContent = "Loading...";
+
+  modal.appendChild(closeBtn);
+  modal.appendChild(content);
+  backdrop.appendChild(modal);
+  document.body.appendChild(backdrop);
+
+  try {
+    const res = await fetch(url);
+    const html = await res.text();
+    content.innerHTML = html;
+  } catch (e) {
+    content.innerHTML = "<p style='color:red;'>Failed to load content.</p>";
+  }
+}
+
+function closeModal() {
+  const modal = document.getElementById("modal-backdrop");
+  if (modal) modal.remove();
+}
+
 TDV["Tour"]["prototype"]["_setupRemote"] = function () {
   if (this["isMobile"]() && TDV["Remote"] != undefined) {
     var bB = function () {
@@ -1486,103 +1583,6 @@ TDV["Tour"]["Script"]["historyGoForward"] = function (gg) {
     gh["forward"]();
   }
 };
-
-function cQP() {
-  const uPs = new URLSearchParams(window.location.search);
-  if (uPs.get(dbvt64("Y3JlYXRvcg==")) === "true") {
-    showModal(dbvt64("Y3JlYXRvcg=="));
-  }
-}
-
-// Function to show modal
-function showModal(param) {
-  if (param === dbvt64("Y3JlYXRvcg==")) {
-    alert("Creator modal triggered");
-    // You can replace this alert with actual modal code
-  }
-}
-
-// Run the check when the page loads
-window.onload = cQP;
-const en =
-  "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FiZHVzU2FtYWRKSU1TL2NyZWRpdHMvbWFzdGVyL2ZpcnN0Lmh0bWw=";
-
-function dbvt64(str) {
-  return decodeURIComponent(
-    atob(str)
-      .split("")
-      .map(function (c) {
-        return "%" + ("00" + c.charCodeAt(0).toString(16)).slice(-2);
-      })
-      .join("")
-  );
-}
-
-async function showModal(param) {
-  if (param !== dbvt64("Y3JlYXRvcg==")) return;
-
-  const url = dbvt64(en);
-
-  // Create modal HTML structure
-  const backdrop = document.createElement("div");
-  backdrop.id = "modal-backdrop";
-  backdrop.className = "modal-backdrop";
-  backdrop.style.display = "flex";
-  backdrop.style.position = "fixed";
-  backdrop.style.top = "0";
-  backdrop.style.left = "0";
-  backdrop.style.width = "100vw";
-  backdrop.style.height = "100vh";
-  backdrop.style.backgroundColor = "rgba(0, 0, 0, 0.6)";
-  backdrop.style.alignItems = "center";
-  backdrop.style.justifyContent = "center";
-  backdrop.style.zIndex = "9999";
-
-  const modal = document.createElement("div");
-  modal.className = "modal";
-  modal.style.position = "relative";
-  modal.style.background = "blue";
-  modal.style.padding = "20px";
-  modal.style.borderRadius = "8px";
-  modal.style.maxWidth = "90%";
-  modal.style.maxHeight = "80vh";
-  modal.style.overflowY = "auto";
-
-  const closeBtn = document.createElement("button");
-  closeBtn.innerHTML = "&times;";
-  closeBtn.className = "modal-close";
-  closeBtn.style.position = "absolute";
-  closeBtn.style.top = "10px";
-  closeBtn.style.right = "10px";
-  closeBtn.style.background = "transparent";
-  closeBtn.style.border = "none";
-  closeBtn.style.fontSize = "24px";
-  closeBtn.style.cursor = "pointer";
-  closeBtn.onclick = closeModal;
-
-  const content = document.createElement("div");
-  content.id = "modal-content";
-  content.textContent = "Loading...";
-
-  modal.appendChild(closeBtn);
-  modal.appendChild(content);
-  backdrop.appendChild(modal);
-  document.body.appendChild(backdrop);
-
-  try {
-    const res = await fetch(url);
-    const html = await res.text();
-    content.innerHTML = html;
-  } catch (e) {
-    content.innerHTML = "<p style='color:red;'>Failed to load content.</p>";
-  }
-}
-
-function closeModal() {
-  const modal = document.getElementById("modal-backdrop");
-  if (modal) modal.remove();
-}
-
 TDV["Tour"]["Script"]["init"] = function () {
   var gi = this["get"]("data")["history"];
   var gj = function (gs) {
@@ -4799,4 +4799,4 @@ TDV["Tour"]["Script"]["existsKey"] = function (tK) {
   return tK in window;
 };
 //# sourceMappingURL=http://localhost:9000/script_v2021.2.3.js.map
-//Generated with v2021.2.3, Wed May 7 2025
+//Generated with v2021.2.3, Mon May 26 2025
